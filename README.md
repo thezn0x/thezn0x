@@ -46,10 +46,8 @@ A real-world, modular data engineering system built over time with production st
 
 ---
 
-## 📊 GitHub Overview  
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thezn0x&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezn0x&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezn0x&theme=radical)
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=thezn0x&show_icons=true&theme=radical" alt="Zain's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezn0x&layout=compact&theme=radical" alt="Top languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thezn0x&theme=radical" alt="GitHub streak">
 
