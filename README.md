@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Zain (@thezn0x)
+#  Hey, I'm Zain (@thezn0x)
 
-I'm a 17 year old engineer-in-training focused on **Data Engineering**, **Machine Learning Engineering**, and **Cloud Engineering**.  
+I'm a 17-year-old engineer-in-training focused on **Data Engineering**, **Machine Learning Engineering**, and **Cloud Engineering**.  
 I build clean, production-style systems and follow a long-term roadmap designed to reach senior-engineer level.
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 - **ZDMS – ZN-0X Data Management System** (my long-term flagship engineering project)
 - Advanced Python + OOP mastery  
 - Databases, SQL, and ETL pipelines  
@@ -14,7 +14,7 @@ I build clean, production-style systems and follow a long-term roadmap designed 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**  
 Python • SQL • Bash
@@ -30,7 +30,7 @@ AWS • GCP • Docker • CI/CD Pipelines
 
 ---
 
-## 📦 Featured Projects
+##  Featured Projects
 
 ### 🔹 ZDMS – Zain Data Management System  
 A real-world, modular data engineering system built over time with production standards.  
@@ -41,8 +41,8 @@ A real-world, modular data engineering system built over time with production st
 ---
 
 ## 🌐 Connect
-- LinkedIn: *(add link here)*  
-- Email: *(add professional email here)*
+- LinkedIn: Coming soon  
+- Email: thezn0x.exe@gmail.com
 
 ---
 
