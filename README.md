@@ -6,8 +6,7 @@ I build clean, production-style systems and follow a long-term roadmap designed 
 ---
 
 ##  Currently Working On
-- **ZDMS – ZN-0X Data Management System** (my long-term flagship engineering project)
-- Advanced Python + OOP mastery  
+- SkillScout - Python data pipeline that tracks which tech skills Pakistani companies are hiring for and shows developers exactly what to learn next to get better jobs.
 - Databases, SQL, and ETL pipelines  
 - Airflow / Prefect (incoming)  
 - Prepping for AWS + GCP fundamentals  
@@ -23,7 +22,7 @@ Python • SQL • Bash
 Pandas • SQLite • PostgreSQL • APIs • ETL
 
 **Machine Learning (Upcoming)**  
-NumPy • pandas • scikit-learn • TensorFlow  
+NumPy • pandas • scikit-learn • TensorFlow • PyTorch 
 
 **Cloud & DevOps (Upcoming)**  
 AWS • GCP • Docker • CI/CD Pipelines  
