@@ -40,7 +40,7 @@ A real-world, modular data engineering system built over time with production st
 ---
 
 ## 🌐 Connect
-- LinkedIn: Coming soon  
+- LinkedIn: linkedin.com/in/zn0x  
 - Email: thezn0x.exe@gmail.com
 
 ---
