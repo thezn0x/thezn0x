@@ -31,9 +31,8 @@ AWS • GCP • Docker • CI/CD Pipelines
 
 ##  Featured Projects
 
-### 🔹 ZDMS – Zain Data Management System  
-A real-world, modular data engineering system built over time with production standards.  
-**Tech:** Python, SQL, ETL Pipelines
+### 🔹 SkillScout  
+Python data pipeline that tracks which tech skills Pakistani companies are hiring for and shows developers exactly what to learn next to get better jobs.  
 
 *(More projects coming soon as I progress along my roadmap.)*
 
